@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonGC506
 - 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning html, css, JavaScript, Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
